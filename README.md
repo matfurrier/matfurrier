@@ -47,10 +47,10 @@
 ### 🤝🏻 &nbsp;Conecte-se Comigo
 
 <p align="center">
-<a href="https://furrier.app"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mateusfurrier"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:matfurrier@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/matfurrier"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://furrier.app"><img src="https://img.shields.io/badge/-furrier.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mateusfurrier"><img src="https://img.shields.io/badge/-Mateus%20Furrier-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:matfurrier@gmail.com"><img src="https://img.shields.io/badge/-matfurrier@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/matfurrier"><img src="https://img.shields.io/badge/-@matfurrier-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
