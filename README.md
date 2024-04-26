@@ -15,12 +15,6 @@
 
 <img alt="Codificação à Noite" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/matfurrier/matfurrier/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 ### 🛠 &nbsp;Pilha Tecnológica
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
