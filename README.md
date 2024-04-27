@@ -1,4 +1,4 @@
-<h2>Olá!</h2>
+<h2 style="margin-bottom: 20px;">Olá!</h2>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -45,7 +45,7 @@
   
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matfurrier&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=matfurrier&theme=dark&hide_border=false" /> 
+  <img  title="🔥" alt="Mateus Furrier" src="https://github-readme-streak-stats.herokuapp.com/?user=matfurrier&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
