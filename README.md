@@ -1,4 +1,5 @@
 <img alt="Codificação à Noite" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Olá!</h2>
+<img alt="Codificação à Noite" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;Sou Mateus Furrier
 
@@ -12,8 +13,6 @@
 💬 &nbsp;Sinta-se à vontade para entrar em contato comigo para para algum projeto, ou apenas para uma discussão interessante.\
 ✉️ &nbsp;Você pode me enviar um e-mail para matfurrier@gmail.com! Tentarei responder o mais rápido possível.\
 📄 &nbsp;Por favor, dê uma olhada no meu [Currículo](https://drive.google.com/file/d/1wwvteaaEP7LdShTgriLIe6Qur6vD3C4s/view?usp=sharing) para mais detalhes sobre mim. Estou aberto a feedback e sugestões!
-
-<img alt="Codificação à Noite" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Pilha Tecnológica
 
