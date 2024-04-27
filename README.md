@@ -1,4 +1,4 @@
-<img alt="Codificação à Noite" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Olá!</h2>
+<h2>Olá!</h2>
 <img alt="Codificação à Noite" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;Sou Mateus Furrier
