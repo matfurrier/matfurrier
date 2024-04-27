@@ -50,7 +50,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://matfurrierstats.vercel.app/api/top-langs/?username=matfurrier&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img height="180em" src="https://matfurrierstats.vercel.app/api/top-langs/?username=matfurrier&layout=compact&langs_count=8&theme=algolia"/>
   
   </td>
 </tr>
