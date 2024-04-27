@@ -58,20 +58,13 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=center>
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=matfurrier&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=matfurrier&theme=radical&no-bg=true&no-frame=true&margin-w=5&margin-h=15&row=1&column=3&experience=true&commits=true&repositories=true" alt="TROPHY" />
     </a>
 </div>
+
 <!--- trophy (start) -->
-
-
-<p align="center">
-<a href="https://github.com/matfurrier">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matfurrier&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://matfurrierstats.vercel.app/api/top-langs/?username=matfurrier&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Conecte-se Comigo
 
