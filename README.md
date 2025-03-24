@@ -19,21 +19,37 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![SAP Business One](https://img.shields.io/badge/-SAP%20Business%20One-05122A?style=flat&logo=sap)&nbsp;
+![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-05122A?style=flat&logo=qlik)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=api)&nbsp;
+![SOAP](https://img.shields.io/badge/-SOAP-05122A?style=flat&logo=soap)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![SAP Business One](https://img.shields.io/badge/-SAP%20Business%20One-05122A?style=flat&logo=sap)&nbsp;
-![QlikSense](https://img.shields.io/badge/-QlikSense-05122A?style=flat&logo=qlik)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=githubactions)&nbsp;
+![ETL](https://img.shields.io/badge/-ETL-05122A?style=flat&logo=databricks)&nbsp;
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-05122A?style=flat&logo=google-analytics)&nbsp;
-
-
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-05122A?style=flat&logo=datadog)&nbsp;
+![LGPD](https://img.shields.io/badge/-LGPD-05122A?style=flat&logo=lock)&nbsp;
+![OAuth 2.0](https://img.shields.io/badge/-OAuth%202.0-05122A?style=flat&logo=auth0)&nbsp;
 
 ### ⚙️ &nbsp;Análise no GitHub
 <!--- stats & Trophy (start) -->
