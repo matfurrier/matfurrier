@@ -1,19 +1,18 @@
 &nbsp;<b>Olá!</b>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100" />
 
 ### 👨🏻‍💻 &nbsp;Sou Mateus Furrier
 
-👔 &nbsp;Líder de TI com +18 anos de experiência.\
-💼 &nbsp;Especialista em SAP B1 e desenvolvimento Full Stack.\
-🔒 &nbsp;Cybersecurity.
-🎓 &nbsp;Engenheiro da Computação - Pós-Graduado em Eng. de Software - MBA Cybersecurity - Prof. de Matemática.\
-💡 &nbsp;Gosto de explorar novas tecnologias e desenvolver soluções de software e hacks rápidos.\
-🚀 &nbsp;Apaixonado por soluções eficientes e inovadoras.
-🌱 &nbsp;Estou me aprofundando em Inteligência Artificial, Design de Sistemas e Arquitetura em Nuvem.\
-💬 &nbsp;Sinta-se à vontade para entrar em contato comigo para para algum projeto, ou apenas para uma discussão interessante.\
-✉️ &nbsp;Você pode me enviar um e-mail para matfurrier@gmail.com! Tentarei responder o mais rápido possível.\
-📄 &nbsp;Por favor, dê uma olhada no meu [Currículo](https://drive.google.com/file/d/1wwvteaaEP7LdShTgriLIe6Qur6vD3C4s/view?usp=sharing) para mais detalhes sobre mim. Estou aberto a feedback e sugestões!
+👔 &nbsp;Profissional de TI com mais de 18 anos de experiência em liderança, desenvolvimento de software e gestão de tecnologia.  
+💼 &nbsp;Especialista em SAP Business One, desenvolvimento Full Stack e arquitetura de sistemas.  
+🔐 &nbsp;Atuação sólida em Cybersecurity, com foco em compliance, proteção de dados e governança.  
+🎓 &nbsp;Formado em Engenharia da Computação, com pós-graduação em Engenharia de Software, MBA em Cybersecurity e licenciatura em Matemática.  
+💡 &nbsp;Apaixonado por inovação e eficiência, gosto de explorar novas tecnologias e criar soluções inteligentes para desafios reais.  
+🚀 &nbsp;Atualmente aprofundando conhecimentos em Inteligência Artificial, Arquitetura em Nuvem e Design de Sistemas escaláveis.  
+💬 &nbsp;Aberto a novos projetos, colaborações e boas conversas sobre tecnologia.  
+📧 &nbsp;Entre em contato comigo: [matfurrier@gmail.com](mailto:matfurrier@gmail.com)  
+📄 &nbsp;Confira meu [Currículo](https://drive.google.com/file/d/1wwvteaaEP7LdShTgriLIe6Qur6vD3C4s/view?usp=sharing) para saber mais sobre minha trajetória.  
 
 ### 🛠 &nbsp;Pilha Tecnológica
 
