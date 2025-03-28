@@ -52,7 +52,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matfurrier&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matfurrier&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats-matfurriers-projects.vercel.app/?user=matfurrier&theme=dark" />
   <br><br>
   <img height="180em" src="https://matfurrierstats.vercel.app/api/top-langs/?username=matfurrier&layout=compact&langs_count=8&theme=algolia"/>
 </p>
