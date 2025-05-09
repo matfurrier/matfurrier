@@ -17,7 +17,7 @@
 💡 Passionate about innovation and efficiency. Always exploring smart technologies to solve real problems.  
 🚀 Currently focused on AI, Cloud Architecture, and scalable system design.  
 📧 Contact me: [matfurrier@gmail.com](mailto:matfurrier@gmail.com)  
-📄 View my [Resume](https://drive.google.com/file/d/1wwvteaaEP7LdShTgriLIe6Qur6vD3C4s/view?usp=sharing)
+📄 View my [Resume](https://drive.google.com/file/d/1XMLYnWJg3w2lEx5qCXynrPxRRZnCiYnc/view?usp=sharing)
 
 ---
 
