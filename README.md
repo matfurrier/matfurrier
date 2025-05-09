@@ -61,7 +61,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matfurrier&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br><br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=matfurrier&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-virid-beta.vercel.app?user=matfurrier&theme=dark" alt="GitHub Streak" /></a>
   <br><br>
   <img height="180em" src="https://matfurrierstats.vercel.app/api/top-langs/?username=matfurrier&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
 </p>
